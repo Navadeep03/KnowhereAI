@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pytesseract
+Pillow
+python-magic
+spacy
+sqlalchemy
+aiofiles
+python-dotenv
+openai
